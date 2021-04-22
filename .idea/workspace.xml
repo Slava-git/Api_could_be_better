@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df604cce-6afc-47fb-b555-a18002857fcd" name="Default Changelist" comment="" />
+    <list default="true" id="df604cce-6afc-47fb-b555-a18002857fcd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/api/constants.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +35,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/api" />
   </component>
   <component name="ProjectId" id="1rLsQSvdTUqaWpL3po21xNwk3Lh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -189,6 +191,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1619077251346">
@@ -207,5 +210,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1619077251345" />
+    <state x="111" y="123" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1619089341780">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="111" y="123" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1619089341780" />
   </component>
 </project>
